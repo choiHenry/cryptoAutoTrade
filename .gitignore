@@ -2,3 +2,13 @@ bithumb_api_key.txt
 test/
 bull.ui
 its_me.jpeg
+
+
+# IntelliJ
+.idea/
+
+# MacOSX
+.DS_Store
+
+# pyCache
+__pycache__
