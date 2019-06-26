@@ -1,5 +1,6 @@
 bithumb_api_key.txt
 test/
 bull.ui
-.idea/
-its_me.jpeg
+.idea/vcs.xml
+scr/its_me.jpeg
+.DS_Store
