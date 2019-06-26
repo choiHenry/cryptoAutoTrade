@@ -1,6 +1,6 @@
 # About this repo
 
-This repo contains project files for automated crypto-currency trading program. It uses bithumb[https://www.bithumb.com/] API.
+This repo contains project files for automated crypto-currency trading program. It uses [bithumb](https://www.bithumb.com/) API.
 # How to use
 It is recoomended not to use this program right now. It is only a prototype and needs to be improved.
 If you want to test the program, open a bithumb account and get bithumb aip key pair of (connect key, secret key). Once ready, open index.py and insert the connect key to var 'con_key' and the secret key to 'sec_key'. And run index.py.
